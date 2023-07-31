@@ -1,0 +1,61 @@
+*Automation Testing ?
+It is a process of testing the software 
+with the help of tool without any manual intervention.
+Ex:Selenium,QTP
+
+*Which is the Automation tool ?
+Selenium----Script(Code)
+
+*What is selenium ?
+It is a test automation tool which is use to test
+ web applications & Mobile applications.
+
+*what is Advantage of Automation Testing ?
+	it is faster---it save time---Quality
+
+*what is Advantage of Selenium ?
+	Open Source it is free to download.
+	it support Multiple Browser
+	it support Multiple Programming language
+	it support Multiple OS
+
+*Disadvantage of AT ?
+	Required skilled persons
+
+*Disadvantage of Selenium ?
+	Standalone application
+	immediate support
+	OTP,captcha,network errors,Audio,video 
+	
+	
+*What is test script ?
+ it Program(code) which is written against the Manual test cases
+
+*When we go for AT ?
+	When new build arrives we go for regression testing---AT
+	when time make sense
+	when cost make sense
+	When quality is import
+	When we have to perform repetative test
+
+*Difference Selenium & QTP
+	
+	Selenium			QTP
+1)Open source free to download		licensed
+2)Multiple OS				Window
+3)Multiple PL				VB(visual basic) script
+4)Web & Mobile	applications		All type of applications
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
