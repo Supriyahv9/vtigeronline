@@ -1,0 +1,68 @@
+1)Search Context:To Search the WebElement on the Webpage
+	2Methods---*FindElement()---Single Element---WebElement
+		   *FindElements()---Multiple Elements---List<WebElement>
+
+2)TakesScreenshot:To take the screenshot----WebPage & WebElement
+	1Method---*getScreenshotAs()
+
+3)JavascriptExecutor:To perform Scrolling operation & disabled element
+	2 Methods---*ExecuteScript()---Execute Synchronized js
+		    *ExecuteAsynchScript()---Execute ASynchronized js
+
+4)WebDriver:To Controll the browser  or Browser controlling methods
+	11Methods---*get()
+		    *gettitle()
+		    *getCurrenturl()
+		    *getPageSource()
+		    *getwindowHandle()
+		    *getwindowHandles()
+		    *close()
+		    *Quit()
+		    *Navigate()
+		    *Manage()
+		    *SwitchTo()
+
+
+1)RemoteWebDriver(class)---Remote(control)
+	WebDriver---control ur browser
+RemoteWebDriver----Control----frome one system we r controlling another system browser
+
+
+Exception:
+1)Session not created : System browser---114
+			Project browser---113---112
+1version difference----Warning
+2 version difference----Session not created
+
+2)illegalStateException 
+	When ur System is unable to identify the path of browser
+    Browser---Drivers(ChromeDriver.exe)
+
+Resolve---Path for ChromeDriver.exe
+System.setProperty(String key,String value)
+System.setProperty("webdriver.chrome.driver",String value)
+
+KeyPoints:
+.----Curent Project
+/----immediate child
+//----Any child
+
+System.setProperty(String key,"./Drivers/Chromedriver.exe")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+	
