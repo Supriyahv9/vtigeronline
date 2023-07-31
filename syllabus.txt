@@ -1,0 +1,59 @@
+	1)Introduction:
+		*What is Automation testing ?
+		*Which is the Automation tool ?
+		*What is Selenium ?
+		*when We go For Automation ?
+		*Advantages of AT
+		*Disadvantage Of AT
+		*Advantages of Selenium
+		*Disadvantage of Selenium
+		*Test Script
+		*Selenium tool & QTP	
+	2)Architecture of Selenium WebDriver
+		4-------1)Search context-----2 Methods
+			2)Takesscreenshot---1			1)Interface,AC,inheritance
+			3)Javascriptexecutor----2
+			4)WebDriver-----11
+	3)WebDriver------11 Methods
+	4)HTML & CSS
+	*5)Locators/Selectors-------8 types
+	6)WebElement---------14 Methods
+	7)Synchronization------5 types waits
+	8)Takesscreenshot------Webpage & WebElement----1 Method
+	9)Javascript---------scroll & disable Element-----2 Methods
+	10)Select class-----handle the dropdown-----6 Methods
+	11)Actions class----Mouse--------21 Methods
+	12)Popups-----handle the popups
+
+
+
+	1) Selenium.dev
+	2)Click on downloads
+	3)Click on latest stable version number
+	4)jar file 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+			
